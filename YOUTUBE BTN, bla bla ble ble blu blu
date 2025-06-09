@@ -1,0 +1,13 @@
+<html>
+    <body style="background-color: darkseagreen;">
+        <h1>MEU CANAL DE JOGUINHO VERY POGGERS</h1>
+        <a href="https://www.youtube.com/@gabrieldeopzy2505"class="btn">MEU CANAL DO YOUTUBE</a>
+        
+    </body>
+<style>
+    .btn{background-color: black;border-radius: 10px;color: rgb(0, 253, 76);border-color: rgb(255, 255, 255);padding: 10px; 20px;position: relative; top 50px; left 20px;
+    text-decoration: none; cursor: pointer;}
+
+
+</style>
+    </html>
